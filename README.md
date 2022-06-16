@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I'm an aspiring full-stack developer
-- 🌱 I’m currently Javascript and React
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+- 🔭 I'm an aspiring full-stack developer
+- 🌱 I’m currently Javascript and React
 - ⚡ Fun fact: I love ITZY
 
 
