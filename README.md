@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Frontend%20zhwltlr&fontSize=80)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Frontend%20zhwltlr&fontSize=80)
 
 ### Hi there 👋
 
@@ -7,9 +9,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm an aspiring full-stack developer
-- 🌱 I’m currently TypeScript and React
-- ⚡ Fun fact: I love ITZY
+🔭 I'm an aspiring full-stack developer
+🌱 I’m currently TypeScript and React
+⚡ Fun fact: I love ITZY
 <h4> BLOG EDITOR
   <a href = 'https://blog.naver.com/jisu721itzy212'> Development diary </a>
 </h4>
@@ -26,4 +28,9 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhwltlr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhwltlr&langs_count=10&layout=compact)
+
+
+</div>
