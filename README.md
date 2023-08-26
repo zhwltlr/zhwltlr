@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 🌱 I’m currently TypeScript and React
 ⚡ Fun fact: I love ITZY
 <h4> BLOG EDITOR
-  <a href = 'https://blog.naver.com/jisu721itzy212'> Development diary </a>
+  <a href = 'https://blog.naver.com/zhwltlr'> Development diary </a>
 </h4>
 <h4> About ME
   <a href = 'https://profile-next-two.vercel.app/'> Introduce Myself </a>
